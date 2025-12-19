@@ -12,7 +12,3 @@ It allows users to:
 - File-based storage for items
 - Basic object-oriented structure using classes and inheritance
 
-## How to Run
-1. Compile the Java file:
-   ```bash
-   javac OnlineShoppingStore\OnlineShoppingStore.java
